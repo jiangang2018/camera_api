@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundTextView">
+        <attr name="round_radius" />
+        <attr name="round_color" />
+        <attr name="round_is_translate" />
+        <attr name="round_radius_top_left" />
+        <attr name="round_radius_top_right" />
+        <attr name="round_radius_bottom_left" />
+        <attr name="round_radius_bottom_right" />
+        <attr name="round_is_top_left" />
+        <attr name="round_is_top_right" />
+        <attr name="round_is_bottom_left" />
+        <attr name="round_is_bottom_right" />
+    </declare-styleable>
+
+    <attr name="round_radius" format="dimension|integer" />
+    <attr name="round_color" format="color" />
+    <attr name="round_is_translate" format="boolean" />
+    <attr name="round_radius_top_left" format="dimension|integer" />
+    <attr name="round_radius_top_right" format="dimension|integer" />
+    <attr name="round_radius_bottom_left" format="dimension|integer" />
+    <attr name="round_radius_bottom_right" format="dimension|integer" />
+    <attr name="round_is_top_left" format="boolean" />
+    <attr name="round_is_top_right" format="boolean" />
+    <attr name="round_is_bottom_left" format="boolean" />
+    <attr name="round_is_bottom_right" format="boolean" />
+
+    <attr name="title" format="string" />
+    <attr name="icon" format="reference" />
+    <attr name="content" format="string" />
+</resources>

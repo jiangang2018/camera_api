@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.library.SquImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iv"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:scaleType="centerCrop"
+    android:src="@drawable/shelf"
+    android:layout_margin="10dp"
+    android:layout_height="match_parent"/>
